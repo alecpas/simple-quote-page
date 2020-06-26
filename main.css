@@ -1,0 +1,10 @@
+ .simple-qoute {
+  width: 100%;
+  height: auto;
+}
+
+#quote {
+  margin-top: -400px;
+  text-align: center;
+  font-size: 29px;
+}
