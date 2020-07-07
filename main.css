@@ -1,10 +1,16 @@
  .simple-qoute {
   width: 100%;
   height: auto;
+  margin: 0 auto;
 }
 
 #quote {
-  margin-top: -400px;
+  margin-top: -600px;
   text-align: center;
-  font-size: 29px;
+  font-family: Helvetica, sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  color: azure;
+  letter-spacing: 10px;
+  padding: 5px;
 }
